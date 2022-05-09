@@ -246,4 +246,4 @@ function maiuscula(str) {
     return resultStr
 
 }
-console.log(maiuscula("paralelepipedo"))
+// console.log(maiuscula("paralelepipedo"))
